@@ -3,7 +3,7 @@
   "description": "Babel preset for Mahalo applications",
   "version": "0.6.0",
   "dependencies": {
-	"babel-plugin-transform-class-properties": "^6.6.0",
+    "babel-plugin-transform-class-properties": "^6.6.0",
     "babel-plugin-transform-flow-strip-types": "^6.5.0",
     "babel-plugin-transform-mahalo": "^0.6.0",
     "babel-plugin-transform-runtime": "^6.6.0",
@@ -11,6 +11,6 @@
   },
   "main": "index.js",
   "keywords": [
-	  "babel-plugin"
+      "babel-plugin"
   ]
 }
